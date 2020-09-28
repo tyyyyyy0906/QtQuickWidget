@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadingCricleActive.qml</file>
+        <file>LoadingProgressActive.qml</file>
+        <file>ProgressIndicator.qml</file>
+        <file>ProgressBar.qml</file>
+    </qresource>
+</RCC>
