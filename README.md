@@ -1,7 +1,7 @@
 # **QtQuickWidget**
 ## 本项目将收录一套完整的QtQuick控件
 
-###现已收录控件：  
+###现已收录控件：###  
 
 **1.HProgressBar**
   - **LoadingCricleActive** 仿Windows8* && Windows10加载风格。
