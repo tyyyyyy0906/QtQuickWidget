@@ -1,5 +1,5 @@
 # **QtQuickWidget**
-## QtQuickWidget将收录一套完整的*QtQuick Widgets*控件
+## 本项目将收录一套完整的QtQuick控件
 
 ###现已收录控件：  
 
